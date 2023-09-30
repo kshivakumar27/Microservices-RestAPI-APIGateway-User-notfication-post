@@ -1,0 +1,16 @@
+
+n	java:S125'"<This block of commented-out lines of code should be removed.(‘¦Ğ†8‘Å°¿­1H‹RMAJORZ
+CODE_SMELL
+‰	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ›âÒıÿÿÿÿHwRMINORZ
+CODE_SMELL
+]
+java:S1481"-Remove this unused "userName" local variable.(•Á–ëÿÿÿÿÿHxRMINORZ
+CODE_SMELL
+_
+java:S1481"4Remove this unused "userPhoneNumber" local variable.(‹×¦’HuRMINORZ
+CODE_SMELL
+n	java:S125!"<This block of commented-out lines of code should be removed.(—İ‘€8†¢¯¿­1H„RMAJORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "url" local variable.(ÂÑŞ§ÿÿÿÿÿ8ø„À­1HŸRMINORZ
+CODE_SMELL

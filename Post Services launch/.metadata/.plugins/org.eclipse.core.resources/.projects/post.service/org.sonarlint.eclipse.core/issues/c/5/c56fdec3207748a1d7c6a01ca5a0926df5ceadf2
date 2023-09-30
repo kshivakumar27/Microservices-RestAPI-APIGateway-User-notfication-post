@@ -1,0 +1,9 @@
+
+‹
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "postOne".(ãµ–×HÀRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¿âçþÿÿÿÿHÃRMINORZ
+CODE_SMELL
+a
+java:S1481"0Remove this unused "description" local variable.(ÿææßøÿÿÿÿHÄRMINORZ
+CODE_SMELL

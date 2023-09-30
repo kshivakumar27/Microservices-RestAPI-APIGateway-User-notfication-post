@@ -1,0 +1,8 @@
+
+m	java:S125"<This block of commented-out lines of code should be removed.(Ì†Ø8ÍÛĞ¸­1HdRMAJORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øø¼„HeRMINORZ
+CODE_SMELL
+˜
+java:S1488"hImmediately return this expression instead of assigning it to the temporary variable "notificationsOne".(İ—û²ùÿÿÿÿHfRMINORZ
+CODE_SMELL

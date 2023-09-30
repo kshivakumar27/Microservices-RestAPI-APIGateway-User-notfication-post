@@ -1,0 +1,5 @@
+package com.microserviceArchitechture.post.service;
+
+public class Posts {
+
+}

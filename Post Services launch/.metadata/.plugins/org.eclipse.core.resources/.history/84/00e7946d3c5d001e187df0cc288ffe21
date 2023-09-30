@@ -1,0 +1,20 @@
+package com.microserviceArchitechture.post.service;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/post")
+public class PostsController {
+	
+	@GetMapping(value="/{postId}")
+	public Posts getValue(@PathVariable("postId")String postId) {
+		
+		String description;
+		Posts postOne=new Posts(postId,"Hi this is Posts description"+postId);
+		return postOne;
+		
+	}
+}
